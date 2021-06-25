@@ -1,0 +1,7 @@
+#[test]
+fn exploration(){
+    assert_eq!(2+2,4);
+}
+fn main(){
+
+}
